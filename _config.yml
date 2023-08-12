@@ -23,7 +23,7 @@ resume_contact_address:         "10101 Bren Rd E, 309, Minnetonka, MN 55343"
 resume_header_contact_info:     "10101 Bren Rd E, 309, Minnetonka, MN 55343 • (612) 704-8616 • nicholas.wilfahrt@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am an Information and Application Security professional with experience in both agile, SOA driven environments, more traditional settings and businesses in between. I have skill with a wide range of technologies and products along with experience taking large initiatives, breaking them down into projects and finishing the work that is required to complete those projects I have experience working with technology in SOC II audited environments as well as other kinds of policy and governance problems. My tech interests include automation, problem solving and my homelab</p>"
+resume_header_intro: "<p>I am an Information and Application Security professional with experience in both agile, SOA driven environments, more traditional settings and businesses in between. I have skill with a wide range of technologies and products along with experience taking large initiatives, breaking them down into projects and finishing the work that is required to complete them. I have experience working with technology in SOC II audited environments as well as other kinds of policy and governance problems. My tech interests include automation, problem solving and my homelab</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
