@@ -1,12 +1,8 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technical Skills
+- skill: Technical Skills
+  description: <ul class="resume-item-list"><li>Well versed in Linux, cloud native applications, web applications and micro services</li><li>Languages proficient in Python, Ruby, Powershell, Bash, Javascript</li><li>Security as Code (auditing large or wide environments using repeatable methodologies)</li><li>Web application development as well as vulnerability and penetration testing on those applications</li><li>Security in AWS and Azure environments as well as on premise</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Operational Skills
+- skill: Operational and Business Skills
+  description: <ul class="resume-item-list"><li>Can organize and handle large scale technical projects and goals, breaking them down into tasks</li><li>Able to delegate and lead other technical assets</li><li>Experience in SOC2 and HIPAA environments</li><li>Able to explain technical concepts to non technical parts of the business</li><li>Experience in a wide variety of work environments as well as work strategies (ITIL/Waterfall, Agile, Scrum)</li><li>Able to identify weaknesses in a security program, identify potential remediations and decide on the correct path forward, following up on the project through to completion</li><li>A wizard in Google Sheets and Jira</li></ul>
